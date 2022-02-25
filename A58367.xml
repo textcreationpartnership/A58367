@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on the poems made upon the siege and taking of Namur together with a short answer to the modest examination of the Oxford decree, &amp;c. Lately published. Both in a letter to a friend at Oxon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58367</idno>
+            <idno type="STC">Wing R710</idno>
+            <idno type="STC">ESTC R217976</idno>
+            <idno type="EEBO-CITATION">99829607</idno>
+            <idno type="PROQUEST">99829607</idno>
+            <idno type="VID">34048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34048)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1998:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on the poems made upon the siege and taking of Namur together with a short answer to the modest examination of the Oxford decree, &amp;c. Lately published. Both in a letter to a friend at Oxon.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by M. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In part a reply to: Sherlock, William.  A modest examination of the authority and reasons of the late decree of the vice-chancellor of Oxford, and some heads of colleges and halls.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707. --  Modest examination of the authority and reasons of the late decree of the vice-chancellor of Oxford, and some heads of colleges and halls --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34048:1" rendition="simple:additions"/>
+            <p>REFLECTIONS ON THE POEMS MADE UPON <hi>The Siege and Taking</hi> OF NAMUR; Together with a ſhort Anſwer to the <hi>Modeſt Examination of the</hi> Oxford <hi>Decree,</hi> &amp;c. Lately Publiſhed.</p>
+            <p>
+               <hi>Both in a Letter to a Friend at</hi> Oxon.</p>
+            <q>
+               <p>Gaudent ſcribentes, &amp; ſe venerantur.</p>
+            </q>
+            <bibl>
+               <hi>Hor. ep. 2. lib. 2.</hi>
+            </bibl>
+            <p>
+               <hi>LONDON;</hi> Printed, and are to be ſold by <hi>M. Whitlock,</hi> near <hi>Stationers-Hall.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:34048:2"/>
+            <pb n="3" facs="tcp:34048:2"/>
+            <head>REFLECTIONS ON THE POEMS Made upon the Siege and Taking of NAMUR, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>COuld I have any Reaſon to ſuſpect (as you ſeem to have) the Bravery of the Confederate Army be<g ref="char:EOLhyphen"/>fore <hi>NAM<g ref="char:V">Ʋ</g>R,</hi> you know my Inclinations to the preſent Government would reſtrain me from ſaying any thing that might prejudice its Intereſt; much more from Entertaining ſuch Groundleſs, Unneceſſary Jealouſies, as thoſe muſt be, which would Aſperſe and Vilifie the Glory of our laſt Campaign. And, for many other Reaſons I am a very unfit Perſon to anſwer that ſevere Queſtion in your Letter, <hi>viz. Whether the late Siege and Taking of</hi> Namur <hi>deerves the Great and Extraordinary Applauſe ſome People are pleaſed to beſtow upon it? And whether ſo many</hi> Engliſh <hi>Lives have not dearly bought the King of</hi> Spain<hi>'s Town?</hi> But was I never ſo able to undertake the Diſpute, which is here ſuggeſted, common
+<pb n="4" facs="tcp:34048:3"/>Prudence would keep me from Entring, at this Time of Day, into the Merits of that Cauſe, which has long agoe been ſo learn<g ref="char:EOLhyphen"/>edly handled by Men of great Experience and Abilities in all Profeſſions. And therefore you cannot but excuſe me, if I wave this Argument, and rather chuſe to divert you with my Thoughts of the POEMS, which have come out upon this Occaſion, as your Letter alſo enjoyns me.</p>
+            <p>And here, Sir, in Regard to your Commands, I put my ſelf upon a Work which is by no means my Talent; nor do I deſire it ſhould be; for the Wits of our Age tell us, in their Dedica<g ref="char:EOLhyphen"/>tions and Prefaces, That no Man can be a True Critick, unleſs he add to his Natural Endowments (which ought to he Great indeed) the exact Knowledge of the whole Circle of Human Li<g ref="char:EOLhyphen"/>terature, both Ancient and Modern. But, as I humbly con<g ref="char:EOLhyphen"/>ceive, the Gentlemen, who will be concerned here, are few of them thus qualified; ſo neither do I think it neceſſary their Poems ſhould paſs uncenſured, till ſuch a one can be found, eſpecially when their Faults are very obvious to a Man of a narrower Ca<g ref="char:EOLhyphen"/>pacity.</p>
+            <p>I would neither give you nor my ſelf the Trouble of quoting all their ſeveral Miſtakes, if I had the Poems by me; my De<g ref="char:EOLhyphen"/>ſign, not being to attempt a formal Piece of Criticiſm in the Compaſs of a Letter, which the Poſt will call for before I can poſſibly review it. You muſt therefore be content with thoſe general Impreſſions they made upon me, as I read them ha<g ref="char:EOLhyphen"/>ſtily in the Bookſellers Shop. And the firſt I met with, came out under the Name of Mr. <hi>Denn:</hi> A Gentleman I never heard of before, tho he has formerly done the King ſome ſecret Service in this kind, as one would gueſs by his Beginning,</p>
+            <q>Once more, my Muſe, thy <hi>William is thy Theme.</hi>
+            </q>
+            <p>The Prooemium is very abrupt and uneven, and ſo indeed is the whole Body of the Poem. Sometimes his <hi>Swan-like Muſe</hi> (as he calls her)</p>
+            <q>—Gently cuts the yielding Stream.</q>
+            <p>Sometimes plunges over Head in <hi>Helicon,</hi> and is almoſt drown'd. Then ſuddenly ſpringing up like,</p>
+            <q>A Linnet flutters in inferior Air.</q>
+            <pb n="5" facs="tcp:34048:3"/>
+            <p>In ſhort, tho' there is here and there a tolerable Thought, which might be improv'd to ſomething: I muſt needs ſay (without any Prejudice to the Author) His Language is ill choſen, and his Verſes bunglingly patch'd together. And <hi>NAM<g ref="char:V">Ʋ</g>R</hi> might ſtill have been in the Poſſeſſion of the <hi>French,</hi> had his Hero (my Lord <hi>Cuts</hi>) fought no better than he writes.</p>
+            <p>But, to attone for this, Mr. <hi>Congreve</hi> immediately gave us a <hi>Pindarique Ode,</hi> the firſt, in the kind, it ſeems, he ever made: And I heartily wiſh, for his Encouragement, he had been as amply rewarded as (they ſay) he was for his <hi>Paſtoral</hi> on the Death of the Queen; For, truly, I think the <hi>Pindarique</hi> not inferior to the <hi>Paſtoral,</hi> with Submiſſion to Mr. <hi>Pittis.</hi> And, perhaps, a Judicious Reader will take as much Pleaſure in the Variety and Strength of M. <hi>Congreve</hi>'s Numbers, as in the flowing Sweetneſs of Mr. <hi>Pittis</hi>'s: Who, in my Opinion, ſeems all-a-long to affect the ſame Turn of Thought and Verſe, and ſo, by ill Management makes a good Figure become Flat and Inſipid. This is a Fault not chargeable on Mr. <hi>Congreve</hi>'s <hi>Ode;</hi> which, however, is juſtly Cenſur'd by Men of Learning, as a flaſhy rutilant Compo<g ref="char:EOLhyphen"/>ſure, very unworthy a Man of his Character in the World. I could indeed hardly have believ'd any Production of his would have betray'd him ſo much as this and his Paſtoral have done.</p>
+            <p>And yet, I know not with what Juſtice Mr. <hi>Yalden</hi>'s <hi>Ode</hi> (a Man of your own Univerſity) can be preferr'd to it: When we conſider the Barrenneſs of his Invention, and the vaſt Pains he takes to expreſs but little in a great Room. His Verſe is ſometimes numerous and ſounding enough; but then it is not animated with a True Warmth and Vi<g ref="char:EOLhyphen"/>gour of Fancy; ſo that the higheſt Commendation which can be given of his Poem is, That it's like a Fair Body (or Beau<g ref="char:EOLhyphen"/>teous Statue) without any Soul to Agitate and inform it; whereas it is <hi>Pindar</hi>'s peculiar Excellency, that in his moſt exalted Verſes, he means more than he can always expreſs, and his Thoughts are often too big for his Words, notwith<g ref="char:EOLhyphen"/>ſtanding the Copiouſneſs of the Language he had to deal with; which was capable of Cloathing any thing in the moſt pompous Garb imaginable. In ſhort he is inimitable, but by ſuch as have naturally a Maſculine, Elevated Genius; be<g ref="char:EOLhyphen"/>cauſe it is otherwiſe impoſſible to arrive at thoſe Sublimities
+<pb n="6" facs="tcp:34048:4"/>and Noble Idea's, which are the Eſſential Ornaments of Pin<g ref="char:EOLhyphen"/>darique Poeſie, and to which that of <hi>Horace</hi> is particularly applicable,</p>
+            <q>
+               <l>—Cui Mens divinior, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Os</l>
+               <l>Magna ſonaturum, des Nominis hujus Honorem.</l>
+            </q>
+            <p>And they are much miſtaken, who think (or ſeem to do by their Compoſings) that this way of Writing conſiſts in joyn<g ref="char:EOLhyphen"/>ing a Company of fine hard Words together, and jumping from one ſort of Verſe to another, as their own extrava<g ref="char:EOLhyphen"/>gant Fancy leads; as if there was no Texture, no Regula<g ref="char:EOLhyphen"/>rity to be obſerv'd in one of the moſt Noble Kinds of Po<g ref="char:EOLhyphen"/>etry.</p>
+            <p>There is another Gentleman of the ſame College, Mr. <hi>Ad<g ref="char:EOLhyphen"/>diſon,</hi> who Adreſſes his Poem to the <hi>Lord Keeper;</hi> which I could willingly commend, for the ſake of ſome Verſes in it (and the more, becauſe I fear you'll cenſure my Breeding as well as Judgment, in Damning all before me) if they were any thing to the Purpoſe. But, inſtead of inſiſting much up<g ref="char:EOLhyphen"/>on that, he entertains the Reader with a long Introduction about the Largeneſs of the Subjects a good Poet may have in King <hi>William</hi>'s Exploits; about <hi>Virgil</hi> and <hi>Homer;</hi> and when he comes to the Point, ſlily paſſes it over. I wiſh he had per<g ref="char:EOLhyphen"/>form'd what his Title-Page promis'd, becauſe I believe him Poet enough for it, and that the World might not wait (as he propheſies it muſt) till
+<q>A Thouſand Years in full Succeſſion run,</q> Before <hi>Fate's unerring Doom</hi> will ſend ſome mighty Bard to chant out the Praiſes of the preſent Age.</p>
+            <p>But tho' his Succeſs in this Poem cannot be much admir'd, yet his Tranſlation of the Fourth Book of <hi>Virgil's Georgicks</hi> may; for it is well done, and will recommend him more to his Patron and Men of Senſe than a thouſand ſuch Pieces as his laſt. And, was not Mr. <hi>Dryden</hi> (who is undoubtedly the fitteſt Man of the Age) already engag'd in that Noble Deſign; this Gentleman could not better employ his Poetical Hours than in attempting all <hi>Virgil.</hi>
+            </p>
+            <pb n="7" facs="tcp:34048:4"/>
+            <p>Which is a Work I would by no means recommend to Mr. <hi>Manning,</hi> tho' a Gentleman not at all diſtruſtful of his own Abilities and Skill in Poetry: Which he would ſhew upon all Publick Solemnities. And, you may remember, fur<g ref="char:EOLhyphen"/>niſh'd us with an Eclogue on the Queen's Death, which an Acquaintance of yours then read to us, and juſtly condemn'd as a <hi>Languid, Miſerable Ditty,</hi> in that it had nothing of Na<g ref="char:EOLhyphen"/>ture or Paſſion in it; which would doubtleſs have very well become his Shepherds on ſuch an Occaſion, if he'll Vouch<g ref="char:EOLhyphen"/>ſafe thoſe ſort of Men the common Affections of Humanity. The Character, I think, holds good in this Poem too; and tho' he will not allow it to come out of Shepherds Mouths, yet, in my Opinion, there are no ſuch extraordinary Eleva<g ref="char:EOLhyphen"/>tions in it, but what ſuch Clowns, as his laſt were, might have ſaid, without the Help of much Learning, which the nicer Criticks wholly exclude from Paſtorals, as affected and unnatural; and therefore blame <hi>Virgil</hi> for having too much Philoſophy and abſtracted Knowledge in his <hi>Eclogues:</hi> A Fault this Gentleman has carefully avoided, both in his Paſtoral and Heroick Songs.</p>
+            <p>You had here, Sir, been releas'd had I not this Afternoon met with one Mr. <hi>Charles Whitworth</hi>'s <hi>Albion Rediviva.</hi>
+            </p>
+            <q>
+               <l>Whoſe pert <hi>aſpiring</hi> Muſe dares boldly ply,</l>
+               <l>With borrow'd Wings the Surface of the Sky,</l>
+               <l>And teach his <hi>Fancy</hi> without <hi>ſenſe</hi> to fly.</l>
+            </q>
+            <p>This young Poet (for ſuch his Verſe ſpeaks him to be) is very fond of new Words, but does not always hit their Genuine Meaning and Propriety: Nor is it likely he ſhould, the Pu<g ref="char:EOLhyphen"/>rity and Delicacy of our Engliſh Tongue being only known to thoſe who have long convers'd with the beſt Books and beſt Company of both Sexes; and who, after a thorough digeſting of all, have not only brought themſelves to make a right Judgment of Words and Style, but are perfect Maſters of them too. The Run and Cadence of his Numbers plainly diſcovers a Boyiſh Affectation. As to his main Deſign and Platform, that is borrow'd, and is not much to be com<g ref="char:EOLhyphen"/>mended in thoſe from whom he had it. For tho' the Ancients (and eſpecially <hi>Ovid</hi>) being skill'd in the <hi>Platonick Philoſophy,</hi> manag'd ſome of their Poems this way (I mean by repre<g ref="char:EOLhyphen"/>ſenting <hi>Things</hi> under the Character of <hi>Perſons</hi>) with wonder<g ref="char:EOLhyphen"/>ful
+<pb n="8" facs="tcp:34048:5"/>Succeſs; Yet, I muſt confeſs, I could never admire it in any of our Modern Attempters. But ſince the Foundation of this very Poem is not originally his, I can only pity the Gentleman's Want of Skill in making no better a Choice. And I am alſo ſorry he may be narrowly tract in many of his beſt Thoughts and Turns. The chief Aim and Endea<g ref="char:EOLhyphen"/>vour, if I miſtake it not, is to magnifie the Glory of our Revolution; and if ſo, the Gentleman might very well have ſpar'd his Pains, after Dr. <hi>Blackmore</hi> had ſufficiently done it to his Hands: For, certainly any Man of Judgment, that has read <hi>Prince Arthur</hi> (tho' that Poem has great Objections, a<g ref="char:EOLhyphen"/>gainſt it) will deſpiſe this trivial Paper of Verſes.</p>
+            <p>Thus, in hopes you will confine theſe Lines to your Clo<g ref="char:EOLhyphen"/>ſet, or burn them, I have freely given my Opinion (as much as I could in Three Hours) of what Pieces I have ſeen; and if I have dealt too rude Blows upon the Gentle<g ref="char:EOLhyphen"/>men, who are all of them Strangers to me, and therefore ought to have been more civilly treated, you muſt thank your ſelf for putting a Sword into a Madman's Hands, who is ſure to Maſſacre all before him; and, when the Frenzy is over, will be apt enough to alledge <hi>Juvenal</hi>'s Excuſe.</p>
+            <q>
+               <l>—Stulta eſt Clementia, cum tot ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Vatibus occurras—</l>
+            </q>
+            <p>And now, Sir, if I have betray'd my Inexperience in theſe things, I have done it to a Friend, and that is my Security. But, if by chance, there is any Judgment in what I have ſaid, I know not what Need there would be of Ex<g ref="char:EOLhyphen"/>cuſing the Freedom I have taken to any Body elſe; and the Gentlemen themſelves could not be angry with me, if I told them, it was the Effect of an unprejudic'd Opinion, that none of them would ever deſerve the Name of a Poet, un<g ref="char:EOLhyphen"/>leſs he had better Pretenſions than theſe.</p>
+            <p>But I would not here be ſuppos'd to rob Mr. <hi>Congreve</hi> of his juſt Commendations, ſince he has really perform'd many things to Admiration for a Man of his Years: And if he does not always write with the ſame Succeſs, it is no other Misfortune than has attended the beſt Poets before him. Therefore he has no Reaſon to ſuſpect that all his Works ſhould be thought abſolutely perfect, that being a Pretenſion beyond Human Reach. I have ſo much Reſpect for his
+<pb n="9" facs="tcp:34048:5"/>Worth, that I think him not to be numbred with any of theſe other Gentlemen. And I heartily wiſh he would ſpend leſs Time in ſerving a Senſeleſs debauch'd Stage, and undertake ſome Noble <hi>Epick Poem,</hi> or the Tranſlation of <hi>Homer</hi> (as Mr. <hi>Dryden</hi> has done that of <hi>Virgil</hi>) for ſuch Labours as theſe would honour his Country and improve its Language. Such as theſe, I am ſure, have made the <hi>French</hi> far the moſt learned of all the Living Tongues in the World. But, I leave the Refiners of ours to take their Methods, and remain,</p>
+            <closer>
+               <signed>Sir, <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU are always very importunate with me to continue my Intelligence, as you call it; but, truly, at preſent I know of no News that can much affect you, unleſs it be <hi>Dr.</hi> Sherlock<hi>'s modest Examination of the</hi> Oxford <hi>Decree, concerning the Hereſie of Three Diſtinct Infinite Minds in the ever-bleſſed Trinity,</hi> which was publiſh'd Yeſterday. In this Pamphlet, after a ſlight Touch upon you, for being no Criticks in <hi>Latin</hi> or <hi>Engliſh</hi> (a Province I thought he, of all Men would never have engag'd in) he falls foul upon your Decreeing Doctors, for being made Tools to ſerve the malitious Ends of his Animadverter; and ſays withal, That it is not legally in the Power of an <hi>Oxford</hi> Convocation, whate<g ref="char:EOLhyphen"/>ever they may challenge to themſelves, publickly to declare Here<g ref="char:EOLhyphen"/>ſie; and this he alledges a Statute for, as well as many Reaſons of his own, about the pernicious Conſequence of ſuch raſh injudi<g ref="char:EOLhyphen"/>cious Proceedings; as if, forſooth, ſo many cautious, regular Men, as the Heads are, would go beyond the Extent of their Au<g ref="char:EOLhyphen"/>thority in ſuch Caſes, out of Humor, and not Conſcience, as he unworthily ſuppoſes.</p>
+            <p>At firſt Sight one would almoſt gueſs by this, he gave up the Gentleman's Cauſe whom he undertakes to defend; but you know the Principle is too much his own to be ſo eaſily reſign'd: And therefore, as a <hi>Self-preſervation-Man</hi> would, he once more draws his Pen, that infallible Weapon, in the old Quarrel, not at all deſpairing of a Glorious Conqueſt; for he aſſures the World he can maintain his Hypotheſis againſt all Oppoſites whatever, dogmatically aſſerting, If it be falſe, our Belief of a Trinity is
+<pb n="10" facs="tcp:34048:6"/>Nonſenſe and Contradiction. His <hi>Three Diſtinct Infinite Minds,</hi> &amp;c. being fairly deducible from the receiv'd eſtabliſh'd Notions of the Fathers, and including, if modeſtly expounded, no more than they did by <hi>Three Perſons.</hi> But under the Learn'd Doctor's Favour, whatever his Private Sentiments are, I fear his New Words ad<g ref="char:EOLhyphen"/>mit of too great a Latitude (as the Animadverter has prov'd at Large) to be ever reconcil'd to that nice Signification the Primi<g ref="char:EOLhyphen"/>tive Church reſtrain'd <hi>Perſons</hi> to; certainly thoſe unwarrantable Terms, of <hi>Three Individual Subſtances</hi> never can: Which, how<g ref="char:EOLhyphen"/>ever, are not ſo extravagant but that the Doctor would very fain juſtifie them too, becauſe he ſays, The <hi>Preacher ſeems to have had no ill Meaning in them;</hi> but he muſt excuſe us if we do not allow him to be a Judge in a caſe, wherein he is too nearly concern'd to be an unprejudic'd one. He promiſes a Treatiſe, to give an <hi>Ac<g ref="char:EOLhyphen"/>count of the Judgment of the Catholick Fathers and Councils concerning a Real Subſtantial Trinity, and what their Notion of Tritheiſm is.</hi> Which I am heartily glad of, becauſe if freely and impartially collected, it will evidently confute his own Crude Indigeſted Opi<g ref="char:EOLhyphen"/>nion, and ſave your Univerſity, and every Body elſe the Trou<g ref="char:EOLhyphen"/>ble of a Formal Anſwer, by bringing one of his Books againſt another, for Self-Contradiction is no new thing to the <hi>Maſter of the Temple.</hi> He gives your Doctors an open Challenge, To enter the Liſts with him, relying, I ſuppoſe, upon this Diſcourſe he has in ſtore; and, unawares modeſtly pretends, It is <hi>indifferent to him whether he overcomes or is overcome, for Truth is better than Vi<g ref="char:EOLhyphen"/>ctory, and will make an honeſt Man,</hi> ſuch as himſelf, <hi>triumph in be<g ref="char:EOLhyphen"/>ing conquer'd.</hi> But he quickly forgets this Conceſſion, and all-a<g ref="char:EOLhyphen"/>long proudly inſiſts upon the Eternal, Infallible Verity of his Principles; tho', at the ſame Time he cannot forbear to com<g ref="char:EOLhyphen"/>plain of his Animadverter's Arrogance and Evil Spirit in his Writ<g ref="char:EOLhyphen"/>ings, ſuch as is enough to give an Unchriſtian Tincture to thoſe that read them: Whereas any unbyaſs'd Man muſt certainly re<g ref="char:EOLhyphen"/>turn him his Character, when he has heard, that, beſides a great many other Inſolencies he charges Dr. <hi>South</hi> (for he is pleaſed to name his Animadverter) with Impiety and Prophaneneſs, and ſays, <hi>He may juſtly fear his Blaſphemies will bring down the Curſe of the ever-bleſs'd Trinity upon him, and that will be no Jest.</hi>
+            </p>
+            <p>No ſure: But why does our modeſt Chriſtian, when he has profeſs'd to curſe no Man, wreſt the Thunder out of the Hands of the Almighty: Why does he judge his Brother, who is account<g ref="char:EOLhyphen"/>able to God only, that made him? This you will own to be a great Heighth of Unchriſtianity, and ſuch an one as is not to be met with in the Animadverſions; tho' I confeſs that Author has too much of the Spirit of Perſecution in him; and the Argumen<g ref="char:EOLhyphen"/>tative
+<pb n="11" facs="tcp:34048:6"/>Part of his Book (which is penn'd with a Strength and Clearneſs becoming the Subject) is extreamly injur'd by his trivial Jeſts and Condeſcenſions.</p>
+            <p>It is much to be lamented that our Divines are ſo divided among themſelves in this great Fundamental Point of our Faith; for after all their Diſquiſitions and pretended Definitions it will be a Myſtery, and ought therefore rather to be rever'd than examin'd. Our good Friends, the <hi>Socinians</hi> are, doubtleſs well pleas'd with this Civil War in our Church, and begin to fancy the Victory on their Side. But, alas! their Reaſon, as arrogant as it is, can never frame any adequate Conceptions of a ſingle Deity, no more than we can of a Trinity; and I hope this inconceivable Myſtery will ſtill be the noble Exerciſe of all honeſt Men's Faith, notwithſtand<g ref="char:EOLhyphen"/>ing the deviliſh Attempts that are daily made to undermine this and all other Articles of our Chriſtian Belief. But I have already tir'd your Patience, and ask your Pardon for meddling with things above me, and ſuch as indeed ought to be touch'd by no Hand, much leſs by</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Decemb.</hi> 24th 1695.</date>
+               </dateline>
+               <signed>Your humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
